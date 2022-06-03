@@ -1,0 +1,20 @@
+Binance Trading Bot: https://github.com/edeng23/binance-trade-bot
+
+Description: The Binance Trading Bot is an interesting repo that combines deep learning with cryptocurrency. This bot can be used to trade market fluctuations in an automated and prediction based way.
+
+Nano Node: https://github.com/nanocurrency/nano-node
+
+Description: Nano-Node is a cryptocurrency that is designed to be an accessible and lightweight digital payment protocol. It focuses on removing inefficiencies in other cryptocurrencies and provides fast and secure transactions with zero fees. It is a green project that is on a decentralized network. 
+
+AI Music Composer: https://github.com/SeptBlast/MusicComposer
+
+Description: This allows the user to generate AI or machine based music from midi files.
+
+Unity Based Pokemon Style Game: https://github.com/PokemonUnity/PokemonUnity
+
+Description: This is a Unity framework based game in the style of Pokemon. It is playable and a work in progress but can be used as a framework to create your own game in this style. 
+
+Inventory Tracking System: https://github.com/inventree/InvenTree
+
+Description: This is an open source inventory management system that provides low level stock control. 
+
